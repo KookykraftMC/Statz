@@ -24,7 +24,7 @@ import me.staartvin.statz.hooks.handlers.UltimateCoreHandler;
 import me.staartvin.statz.hooks.handlers.VaultHandler;
 import me.staartvin.statz.hooks.handlers.VotifierHandler;
 import me.staartvin.statz.hooks.handlers.WorldGuardHandler;
-import net.md_5.bungee.api.ChatColor;
+import org.bukkit.ChatColor;
 
 /**
  * This class is used for loading all the dependencies Statz has. <br>
